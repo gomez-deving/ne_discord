@@ -156,10 +156,10 @@ exports.ne_discord:GetUserInfo(source, function(userInfo)
         print("Username: " .. userInfo.username)
     end
 end)
+```
 
-Credits
-This resource is a rewrite and enhancement of Badger_Discord_API by JaredScar (Badger). Full credit to Badger for the original groundwork and inspiration. Join his Discord for support: discord.gg/WjB5VFz.
-Support
-Join our Discord Support Server for help, bug reports, or feature requests.
-License
+# Credits
+This resource is a rewrite and enhancement of Badger_Discord_API by JaredScar (Badger). Full credit to Badger for the original groundwork and inspiration.
+
+# License
 This project is licensed under the MIT License. Feel free to modify and distribute, but please retain credit to Badger for the original Badger_Discord_API.
